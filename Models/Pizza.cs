@@ -1,3 +1,4 @@
+using System.ComponentModel.DataAnnotations;
 namespace Pizzeria.Models;
 
 public class Pizza
